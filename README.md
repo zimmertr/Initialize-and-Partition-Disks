@@ -1,4 +1,4 @@
-# Initialize and Partition Disks
+# Initialize & Partition Windows Disks
 
 ## Summary
 
